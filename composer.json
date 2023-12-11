@@ -1,0 +1,16 @@
+{
+    "name": "iprogrammer/progress-bar",
+    "description": "Progress bar",
+    "autoload": {
+        "psr-4": {
+            "Iprogrammer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A'zamov Samandar",
+            "email": "azamov.samandar.programmer@gmail.com"
+        }
+    ],
+    "require": {}
+}
