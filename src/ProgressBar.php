@@ -4,7 +4,7 @@ namespace IProgrammer;
 
 class ProgressBar
 {
-    function run($done, $total, $size = 30)
+    static function run($done, $total, $size = 30)
     {
         static $start_time;
         if ($done > $total) return;
